@@ -1,7 +1,7 @@
 About this example:
   This example is to show user the development process for simulating the calibration of DDR4-MIG.
   just launch set_sim.sh bash script to create the MIG and start the simulation. It might stop when the calibration is done.
-  It has been tested with Questasim Questa10.6b and Vivado 2020.1
+  It has been tested with Questasim 2020.1 and Vivado 2020.1
   Simulation of the Calibration of the MIG is a long simulation.
   The code can be re-used without any restrictions.
 
